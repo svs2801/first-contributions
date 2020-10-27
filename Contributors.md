@@ -55,6 +55,7 @@
 - [Matthew Davenport](https://github.com/davenport1)
 - [aminrj](https://github.com/aminrj) was here too
 - [Claudius King](https://github.com/protean-phoenix/)
+- [Shambhavi](https://github.com/svs2801)
 - [Ali Shehbaz](https://github.com/alishehbaz)
 - [Ravi Bhatt](https://github.com/raviRB)
 - [Enrique Pizana](https://github.com/enriquepizana) first contribution!
