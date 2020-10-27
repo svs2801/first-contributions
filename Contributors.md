@@ -34,6 +34,7 @@
 - [Dmitry S](https://github.com/Dmitry-Sm)
 - [Sidharth S Nair](https://github.com/iamsidharthnair)
 - [Marian Watson](https://github.com/marianwatson)
+- [Shambhavi Sabhahit](https://github.com/svs2801)
 - [Julio Añoveros](https://github.com/jubaan)
 - [Yash Hiran] (https://github.com/YashHiran)
 - [Oumaima Makhlouk] (https://github.com/oumaima12)
